@@ -1,5 +1,5 @@
-#Notes on learning python api code and testing
+# Notes on learning python api code and testing
 ## To Date
-*Installed flask, falcon, and waitress packages to pythong.
+* Installed flask, falcon, and waitress packages to pythong.
 ## Current:
-*comparing and learning how to use both frameworks.
+* Comparing and learning how to use both frameworks.
